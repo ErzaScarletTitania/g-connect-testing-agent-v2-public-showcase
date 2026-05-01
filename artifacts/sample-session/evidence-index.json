@@ -1,0 +1,26 @@
+{
+  "sessionId": "sample-gconnect-qa-2026-04-18-001",
+  "evidence": [
+    {
+      "id": "ev-001",
+      "type": "log",
+      "source": "execution-agent",
+      "description": "Round 1 workflow execution trace",
+      "hash": "sha256:sample001"
+    },
+    {
+      "id": "ev-002",
+      "type": "screenshot",
+      "source": "runtime-agent",
+      "description": "UI state after workflow completion",
+      "hash": "sha256:sample002"
+    },
+    {
+      "id": "ev-003",
+      "type": "report",
+      "source": "reporting-agent",
+      "description": "Consolidated findings and recommendations",
+      "hash": "sha256:sample003"
+    }
+  ]
+}

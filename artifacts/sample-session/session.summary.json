@@ -1,0 +1,20 @@
+{
+  "sessionId": "sample-gconnect-qa-2026-04-18-001",
+  "project": "g-connect-sample",
+  "objective": "Validate core workflow and evidence capture path",
+  "status": "completed",
+  "rounds": 3,
+  "issuesFound": 2,
+  "highSeverity": 0,
+  "confidence": 0.86,
+  "agentsInvoked": [
+    "intake",
+    "planning",
+    "execution",
+    "evidence",
+    "triage",
+    "reporting"
+  ],
+  "durationMinutes": 42,
+  "generatedAtUtc": "2026-04-18T14:55:00Z"
+}
