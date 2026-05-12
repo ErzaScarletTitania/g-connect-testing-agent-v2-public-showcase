@@ -11,6 +11,7 @@ The following content is safe to publish:
 - abstracted workflow descriptions
 - synthetic or sanitized example artifacts
 - non-sensitive schemas and templates
+- generic delivery and notification handoff patterns with sanitized placeholders
 
 ## Private Content (Not Published Here)
 
@@ -31,3 +32,4 @@ The private full repository retains:
 - Never publish credentials, tokens, hostnames, or customer-identifying details.
 - Maintain a clear boundary between public design documentation and private operational implementation.
 - Keep examples synthetic unless explicitly approved for disclosure.
+- Replace real customer storage locations and recipient details with neutral placeholders such as `<customer-shared-location>` and `<stakeholder-group>`.

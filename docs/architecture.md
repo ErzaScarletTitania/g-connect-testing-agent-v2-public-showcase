@@ -36,6 +36,7 @@ The architecture prioritizes:
 6. Tooling and Output Layer
 - Durable tools for supporting automation workflows
 - Report and evidence generation for downstream review
+- Customer-ready delivery packaging and release handoff artifacts
 
 ## Data and Control Flow
 
@@ -45,7 +46,9 @@ The architecture prioritizes:
 4. Evidence stage indexes artifacts and links them to outcomes.
 5. Triage classifies issues and confidence.
 6. Reporting produces structured and narrative outputs.
-7. Feedback updates execution strategy for subsequent rounds.
+7. Delivery packaging normalizes customer-facing artifact references and prepares the release bundle.
+8. Human approval gates external release before notification artifacts are drafted.
+9. Feedback updates execution strategy for subsequent rounds.
 
 ## Industry Alignment
 

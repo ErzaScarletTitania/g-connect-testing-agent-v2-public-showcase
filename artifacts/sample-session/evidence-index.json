@@ -21,6 +21,13 @@
       "source": "reporting-agent",
       "description": "Consolidated findings and recommendations",
       "hash": "sha256:sample003"
+    },
+    {
+      "id": "ev-004",
+      "type": "handoff",
+      "source": "reporting-agent",
+      "description": "Approved delivery package and stakeholder notification draft",
+      "hash": "sha256:sample004"
     }
   ]
 }

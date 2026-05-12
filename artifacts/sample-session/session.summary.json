@@ -7,6 +7,9 @@
   "issuesFound": 2,
   "highSeverity": 0,
   "confidence": 0.86,
+  "deliveryPackageGenerated": true,
+  "finalApprovalStatus": "approved",
+  "notificationDraftPrepared": true,
   "agentsInvoked": [
     "intake",
     "planning",

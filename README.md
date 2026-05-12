@@ -12,6 +12,7 @@ Core capabilities demonstrated:
 - Reusable skills and plugin-specific knowledge packs
 - Machine-readable session state and output contracts
 - Evidence-first reporting pipeline for reproducibility and auditability
+- Approval-gated delivery handoff with stakeholder notification drafting
 
 ## Why This Matters
 
@@ -36,6 +37,8 @@ A sanitized sample execution package is included in [artifacts/sample-session](a
 - session summary JSON
 - evidence index JSON
 - report markdown
+- delivery handoff JSON
+- report-ready email draft
 
 These files illustrate how execution state, evidence, and outcomes can be persisted in machine-readable and human-readable forms.
 
@@ -48,6 +51,8 @@ Sharing model:
 - Public mirror: architecture, models, examples, and non-sensitive artifacts
 - Private full repo: deep implementation and internal operations
 - Candidate/employer deep review: read-only invitation to private repo when needed
+
+Public examples intentionally replace customer-specific locations with generic placeholders such as `<customer-shared-location>`.
 
 ## Skills Highlighted
 

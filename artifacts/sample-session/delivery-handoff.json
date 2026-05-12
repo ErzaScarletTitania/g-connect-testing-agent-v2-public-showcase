@@ -1,0 +1,23 @@
+{
+  "sessionId": "sample-gconnect-qa-2026-04-18-001",
+  "packageStatus": "ready",
+  "artifacts": {
+    "reportMarkdown": "report.md",
+    "reportPdf": "final-report.pdf",
+    "evidenceIndex": "evidence-index.json"
+  },
+  "linkNormalization": {
+    "status": "completed",
+    "target": "<customer-shared-location>"
+  },
+  "approval": {
+    "required": true,
+    "status": "approved",
+    "actor": "operator"
+  },
+  "notification": {
+    "status": "drafted",
+    "channel": "email",
+    "artifact": "report-ready-email.md"
+  }
+}
